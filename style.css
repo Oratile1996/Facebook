@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+    background-color: lightslategray;
+    
+}
+
+.box1{
+    width:50%;
+    padding: 100px;
+    
+    
+}
+
+.box2{
+    width: 50%;
+    padding: 100px;
+    
+}
+
+.form{
+    box-sizing: content-box;
+    background-color: skyblue;
+    padding: 50px;
+}
+
+.box1 h1{
+    color: blue;
+}
+
+.box1 p{
+    color: blueviolet;
+}
